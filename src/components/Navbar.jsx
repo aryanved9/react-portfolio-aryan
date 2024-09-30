@@ -20,8 +20,7 @@ function Navbar() {
         className='hover:text-blue-500 cursor-pointer transition-colors duration-300'
         ><FaGithub/>
         </a>
-        <a href="#" className='hover:text-blue-500 cursor-pointer transition-colors duration-300'><FaInstagram/></a>
-        <a href="#" className='hover:text-blue-500 cursor-pointer transition-colors duration-300'><FaTwitter/></a>
+  
       </div>
    </nav>
   )
